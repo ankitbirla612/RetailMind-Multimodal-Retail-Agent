@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Project-specific files
+requirments_p1.txt
+requirments_p2.txt
+requirments_p3.txt
+other_probs.ipynb
+
+# Phase documentation
+Phase_1_DataGeneration/Readme_p1.md
+Phase_2_ModelTraining/README_Phase2.md
+Phase_3_AgentAndUI/README_Phase3.md

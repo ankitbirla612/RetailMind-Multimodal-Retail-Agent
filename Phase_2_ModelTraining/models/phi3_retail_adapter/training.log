@@ -1,0 +1,54 @@
+2026-04-24 15:12:09,186 - __main__ - INFO - ✓ Output directory ready: models/phi3_retail_adapter/
+2026-04-24 15:12:09,188 - __main__ - INFO - Loading training data from /media/jothi/C/Ankit /work/retailmind/data/training_data.json...
+2026-04-24 15:12:09,191 - __main__ - INFO - Loaded 1423 samples from Phase 1
+2026-04-24 15:12:09,200 - __main__ - INFO - ✓ Training samples: 1280
+2026-04-24 15:12:09,200 - __main__ - INFO - ✓ Validation samples: 143
+2026-04-24 15:12:09,200 - __main__ - INFO - 
+Sample training example:
+2026-04-24 15:12:09,200 - __main__ - INFO - Input: Product: Blue headphones made of metal, modern style
+Query: Is this waterproof?
+
+Output:
+Tool: answer_query
+Filters: {"query": "Is this waterproof?"}
+Reasoning: The Blue headphones are not desi...
+
+2026-04-24 15:12:09,201 - __main__ - INFO - Loading model: microsoft/phi-3-mini-4k-instruct...
+2026-04-24 15:12:22,469 - transformers_modules.microsoft.phi-3-mini-4k-instruct.f39ac1d28e925b323eae81227eaba4464caced4e.modeling_phi3 - WARNING - `flash-attention` package not found, consider installing for better performance: No module named 'flash_attn'.
+2026-04-24 15:12:22,469 - transformers_modules.microsoft.phi-3-mini-4k-instruct.f39ac1d28e925b323eae81227eaba4464caced4e.modeling_phi3 - WARNING - Current `flash-attention` does not support `window_size`. Either upgrade or use `attn_implementation='eager'`.
+2026-04-24 15:34:39,478 - __main__ - INFO - ✓ Output directory ready: models/phi3_retail_adapter/
+2026-04-24 15:34:39,480 - __main__ - INFO - Loading training data from /media/jothi/C/Ankit /work/retailmind/data/training_data.json...
+2026-04-24 15:34:39,485 - __main__ - INFO - Loaded 1423 samples from Phase 1
+2026-04-24 15:34:39,494 - __main__ - INFO - ✓ Training samples: 1280
+2026-04-24 15:34:39,494 - __main__ - INFO - ✓ Validation samples: 143
+2026-04-24 15:34:39,494 - __main__ - INFO - 
+Sample training example:
+2026-04-24 15:34:39,494 - __main__ - INFO - Input: Product: Blue headphones made of metal, modern style
+Query: Is this waterproof?
+
+Output:
+Tool: answer_query
+Filters: {"query": "Is this waterproof?"}
+Reasoning: The Blue headphones are not desi...
+
+2026-04-24 15:34:39,494 - __main__ - INFO - Loading model: microsoft/phi-3-mini-4k-instruct...
+2026-04-24 15:34:48,212 - transformers_modules.microsoft.phi-3-mini-4k-instruct.f39ac1d28e925b323eae81227eaba4464caced4e.modeling_phi3 - WARNING - `flash-attention` package not found, consider installing for better performance: No module named 'flash_attn'.
+2026-04-24 15:34:48,212 - transformers_modules.microsoft.phi-3-mini-4k-instruct.f39ac1d28e925b323eae81227eaba4464caced4e.modeling_phi3 - WARNING - Current `flash-attention` does not support `window_size`. Either upgrade or use `attn_implementation='eager'`.
+2026-04-24 18:05:24,980 - __main__ - INFO - ✓ Output directory ready: models/phi3_retail_adapter/
+2026-04-24 18:05:24,980 - __main__ - INFO - Loading training data from /media/jothi/C/Ankit /work/retailmind/data/training_data.json...
+2026-04-24 18:05:24,984 - __main__ - INFO - Loaded 1423 samples from Phase 1
+2026-04-24 18:05:24,990 - __main__ - INFO - ✓ Training samples: 1280
+2026-04-24 18:05:24,990 - __main__ - INFO - ✓ Validation samples: 143
+2026-04-24 18:05:24,990 - __main__ - INFO - 
+Sample training example:
+2026-04-24 18:05:24,990 - __main__ - INFO - Input: Product: Blue headphones made of metal, modern style
+Query: Is this waterproof?
+
+Output:
+Tool: answer_query
+Filters: {"query": "Is this waterproof?"}
+Reasoning: The Blue headphones are not desi...
+
+2026-04-24 18:05:24,990 - __main__ - INFO - Loading model: microsoft/phi-3-mini-4k-instruct...
+2026-04-24 18:05:36,866 - transformers_modules.microsoft.phi-3-mini-4k-instruct.f39ac1d28e925b323eae81227eaba4464caced4e.modeling_phi3 - WARNING - `flash-attention` package not found, consider installing for better performance: No module named 'flash_attn'.
+2026-04-24 18:05:36,866 - transformers_modules.microsoft.phi-3-mini-4k-instruct.f39ac1d28e925b323eae81227eaba4464caced4e.modeling_phi3 - WARNING - Current `flash-attention` does not support `window_size`. Either upgrade or use `attn_implementation='eager'`.
